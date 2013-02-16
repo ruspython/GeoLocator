@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">GeoLocator</string>
+    <string name="title_activity_main">GeoLocator</string>
+    <string name="find">Найти место</string>
+    <string name="get_coors">Получить текущие координаты</string>
+
+    
+</resources>
